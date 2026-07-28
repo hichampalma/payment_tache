@@ -8,4 +8,3 @@
 </p>
 
 
-https://chatgpt.com/share/6a678ed1-2dd0-83ea-87ca-3a2c6cb7df7c
