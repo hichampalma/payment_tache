@@ -3,8 +3,8 @@
 
 </p>
 
-<p align="right">
-  <img src="https://play-lh.googleusercontent.com/kVSZjP28RsexVw77TrcKHsdDJfdvzSE7rx3Hcl93GwfkJIXX3Ao-POKAL2Lg6KWrSamEbVv1S37UWkHDqRaB_xg" alt="Odoo" width="120"/>
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/kVSZjP28RsexVw77TrcKHsdDJfdvzSE7rx3Hcl93GwfkJIXX3Ao-POKAL2Lg6KWrSamEbVv1S37UWkHDqRaB_xg" alt="Odoo" width="300"/>
 </p>
 
 
